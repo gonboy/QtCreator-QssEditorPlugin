@@ -1,0 +1,12 @@
+{
+    \"Name\" : \"QssEditorPlugin\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"Axel Airo-Farulla\",
+    \"Copyright\" : \"(C) Axel Airo-Farulla\",
+    \"License\" : \"\",
+    \"Description\" : \"A Qt Creator plugin for Qt stylesheets edition\",
+    \"Url\" : \"\",
+    $$dependencyList
+}
+
