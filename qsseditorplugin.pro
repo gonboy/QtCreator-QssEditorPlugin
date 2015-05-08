@@ -47,8 +47,6 @@ QTC_PLUGIN_RECOMMENDS += \
 ###### End _dependencies.pri contents ######
 
 include($$QTCREATOR_SOURCES/src/qtcreatorplugin.pri)
-include(widgets/widgets.pri)
-include(parser/parser.pri)
 
 RESOURCES += \
     qsseditorplugin.qrc
